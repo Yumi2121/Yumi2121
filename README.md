@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yumi2121
-- 👀 I’m interested in design and programming! 
+- 👀 I’m interested in programming and design! 
 - 🌱 I’m currently learning web developer.
 - 📫 How to reach me on Linkedin: Zumin Yu
 
